@@ -38,7 +38,12 @@ export default {
             name: 'Reddit',
             image: require('@/assets/social_media/reddit.svg'),
             url: 'https://reddit.com',
-          }  
+          },
+          {
+            name: 'Strava',
+            image: require('@/assets/social_media/strava.svg'),
+            url: 'https://www.strava.com/athletes/86306313',
+          },
             
             
             
